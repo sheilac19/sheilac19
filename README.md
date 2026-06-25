@@ -16,12 +16,13 @@ Apasionada por la tecnología, el desarrollo web y la inteligencia artificial.
 
 ## 🚀 Sobre mí
 
-Soy estudiante de informática interesada en el desarrollo de software, bases de datos e inteligencia artificial.
+Soy estudiante de Desarrollo de software con interés en el desarrollo web, administración de bases de datos e inteligencia artificial.
 
-- 🌱 Actualmente continúo fortaleciendo mis conocimientos en programación y tecnologías web.
-- 💾 Me gusta trabajar con bases de datos MySQL y administración de sistemas Linux.
-- 🤖 Me interesa el desarrollo de proyectos relacionados con Inteligencia Artificial.
-- 📚 Siempre estoy aprendiendo nuevas herramientas para mejorar mis habilidades.
+- 💻 Desarrollo aplicaciones web utilizando PHP y bases de datos relacionales.
+- 🐧 Trabajo frecuentemente con Ubuntu y herramientas del ecosistema Linux.
+- 🗄️ Tengo experiencia administrando MySQL y MariaDB.
+- 🤖 Me interesa la aplicación de Inteligencia Artificial en proyectos tecnológicos.
+- 📚 Siempre busco aprender nuevas tecnologías y mejorar mis habilidades.
 
 ---
 
@@ -55,6 +56,8 @@ Soy estudiante de informática interesada en el desarrollo de software, bases de
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheilac19&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheilac19&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheilac19&layout=compact&theme=tokyonight)
 
 ---
@@ -73,7 +76,57 @@ El proyecto consiste en un sitio web diseñado para administrar de forma eficien
 
 El proyecto consiste en sitio web que facilita la gestión de un centro de adopción de perros. Su objetivo es ofrecer una plataforma amigable donde los usuarios puedan conocer a los perros disponibles, iniciar procesos de adopción y consultar el historial de adopciones realizadas.
 
-**Stack:** Python · Pandas · Scikit-Learn
+**Stack:** Python · Scikit-Learn
+
+---
+
+## 📌 Repositorios Destacados
+
+### 🏪 Inventario-Fastech
+> Sistema web para la gestión de inventario, productos, compras y ventas.
+
+**Tecnologías:** PHP · MySQL · HTML · CSS
+
+🔗 https://github.com/sheilac19/Inventario-Fastech
+
+---
+
+### 📊 analisis-datos-python
+> Proyecto de análisis y limpieza de datos utilizando Python, Pandas y NumPy.
+
+**Tecnologías:** Python · Pandas · NumPy
+
+🔗 https://github.com/sheilac19/analisis-datos-python
+
+---
+
+### 🐶 centro-adopcion-canina
+> Plataforma para la gestión y promoción de adopciones de mascotas.
+
+**Tecnologías:** PHP · MySQL · HTML · CSS
+
+🔗 https://github.com/sheilac19/centro-adopcion-canina
+
+---
+
+### 🖥️ Proyecto-Git
+> Repositorio de prácticas y ejercicios relacionados con Git y GitHub para control de versiones.
+
+**Tecnologías:** Git · GitHub
+
+🔗 https://github.com/sheilac19/Proyecto-Git
+
+---
+
+## 📌 Repositorios Destacados
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sheilac19&repo=Inventario-Fastech&theme=tokyonight)](https://github.com/sheilac19/Inventario-Fastech)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sheilac19&repo=analisis-datos-python&theme=tokyonight)](https://github.com/sheilac19/analisis-datos-python)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sheilac19&repo=centro-adopcion-canina&theme=tokyonight)](https://github.com/sheilac19/centro-adopcion-canina)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sheilac19&repo=Proyecto-Git&theme=tokyonight)](https://github.com/sheilac19/Proyecto-Git)
 
 ---
 
