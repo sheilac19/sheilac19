@@ -53,9 +53,9 @@ Soy estudiante de informática interesada en el desarrollo de software, bases de
 
 ## 📊 Estadísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheilac19&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheilac19&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheilac19&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheilac19&layout=compact&theme=tokyonight)
 
 ---
 
