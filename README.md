@@ -118,18 +118,6 @@ El proyecto consiste en sitio web que facilita la gestión de un centro de adopc
 
 ---
 
-## 📌 Repositorios Destacados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sheilac19&repo=Inventario-Fastech&theme=tokyonight)](https://github.com/sheilac19/Inventario-Fastech)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sheilac19&repo=analisis-datos-python&theme=tokyonight)](https://github.com/sheilac19/analisis-datos-python)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sheilac19&repo=centro-adopcion-canina&theme=tokyonight)](https://github.com/sheilac19/centro-adopcion-canina)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sheilac19&repo=Proyecto-Git&theme=tokyonight)](https://github.com/sheilac19/Proyecto-Git)
-
----
-
 <div align="center">
 
 ✨ Aprendiendo, creando y mejorando cada día.
